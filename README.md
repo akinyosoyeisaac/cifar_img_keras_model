@@ -2,7 +2,8 @@
 
 # BUILDING A SEQUENTIAL KERAS MODEL TO TRAIN AND PREDICT IMAGES OF OBJECT FROM THE CIFAR DATASET
 
--[x] Data Source
+[x] Data Source
+
 	- [from kaggle](https://www.kaggle.com/c/cifar-10/data)
 
 This is a simple model building using stack of dense layers in the keras library.
