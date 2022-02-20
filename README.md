@@ -18,4 +18,4 @@ This is a simple model building using stack of dense layers in the keras library
 > It is importance I point out that is my first attempt using keras to model and make prediction so I apologies of any inconsistence and everything in the notebook above is purely my hand work.
 > I will also be glad to welcome your comments and suggestions with open heart 
 
-# THANKS FOR YOUR TIME 
+> # THANKS FOR YOUR TIME 
